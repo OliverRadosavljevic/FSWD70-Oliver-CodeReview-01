@@ -1,0 +1,126 @@
+html{
+	min-width: 854px;
+	min-height: 655px;
+}
+
+body{
+	max-width: 800px;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+#header{
+	background-color:  #ededed;
+}
+
+#headerlogo{
+	width: 371px;
+	margin: 0;
+	float: left;
+	height: 136px;
+}
+
+#headertext{
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    margin-left: -114px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #653d3d;
+  font-weight: bold;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: darkred;
+}
+
+#mainText{
+	font-size: 60px;
+	text-align: center;
+}
+
+header{
+	height: 150px;
+ 	line-height: 150px;
+ 	text-align: center;
+}
+
+#lbt{
+	background-color: #978484;
+	color: white;
+	padding: 5px;
+	font-weight: bold;
+}
+
+.pictures{
+	height: 133px;
+	width: 248px;
+}
+
+.leftText{
+	font-weight: bold;
+	font-size: 14px;
+	width: 260px;
+	margin-top: 0;
+	height: auto;
+}
+
+#eScooter{
+	height: 133px;
+	width: 248px;
+}
+
+#eScooterText{
+
+}
+
+#atmPic{
+	height: 133px;
+	width: 248px;
+}
+
+hr{
+	border: 5px solid #978484;
+}
+
+#footerpicture{
+	height: 44px;
+	width: 132px;
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#footerText{
+	text-align: center;
+margin-left: 280px;
+}
+
+#eScooterDiv{
+	margin: -421px 0px 0px 552px;
+	width: 249px;
+}
+
+#atmDiv{
+	margin: 0px 0px 0px 549px;
+	width: 251px;
+}
